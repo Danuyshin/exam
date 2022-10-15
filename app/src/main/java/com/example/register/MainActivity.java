@@ -19,7 +19,7 @@ public class MainActivity extends AppCompatActivity {
 EditText name,secondname,mail,password,password2;
 Spinner country;
 CheckBox news;
-Button button;
+
     private final static String FILE_NAME = "content.txt";
     @Override
     protected void onCreate(Bundle savedInstanceState) {
