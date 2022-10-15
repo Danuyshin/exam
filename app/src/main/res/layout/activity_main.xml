@@ -103,12 +103,12 @@ android:padding="10dp"
 
     <Button
         android:id="@+id/button"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_marginStart="128dp"
-        android:layout_marginEnd="189dp"
+        android:layout_width="341dp"
+        android:layout_height="51dp"
+        android:layout_marginStart="61dp"
+        android:layout_marginEnd="9dp"
         android:layout_marginBottom="28dp"
-        android:text="Button"
+        android:text="Регистрация"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent" />
